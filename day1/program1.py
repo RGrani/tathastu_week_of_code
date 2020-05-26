@@ -1,0 +1,11 @@
+""" Take input from users and display all those parameters """
+name = input("enter your name :")
+gen = input("enter your gender : ")
+age = input("enter your age :")
+clg = input("enter your college name :")
+branch = input("enter your branch :")
+print(" NAME :",name )
+print(" GENDER :",gen)
+print(" AGE :",age)
+print( " COLLEGE NAME :",clg )
+print( " BRANCH :",branch )
