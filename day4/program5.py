@@ -1,6 +1,6 @@
-Vote = int(input("Enter the no of votes: "))
+Voteno = int(input("Enter the no of votes: "))
 votes = []
-for i in range(Vote):
+for i in range(Voteno):
     votes.append(input("Enter the name of the Candidate to cast the Vote: "))
 vote = []
 for name in votes:
